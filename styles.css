@@ -17,10 +17,11 @@
 
 /* card carousel */
 
-#main{
+main{
     width: 70vw;
     height: 100%;
     border: 1px white solid;
+    display: inline-block;
 }
 
 .banners {
@@ -75,5 +76,13 @@
     top: 1rem;
   }
   
+  /* queue */
+  #queue{
+    display: inline-block;
+  }
+
+  
+
+
  
 
